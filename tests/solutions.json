@@ -1,0 +1,1056 @@
+[
+  {
+    "level": 0,
+    "name": "第一声回响",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      }
+    ]
+  },
+  {
+    "level": 1,
+    "name": "绕过旧齿轮",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "name": "两座沉默的闸门",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "left"
+      },
+      {
+        "type": "move",
+        "dir": "left"
+      },
+      {
+        "type": "move",
+        "dir": "left"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "name": "浮起的桥",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "valve1"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "name": "给水流一块踏脚石",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "interact",
+        "id": "valve1"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "name": "工坊重新呼吸",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "interact",
+        "id": "valve1"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "name": "一束迟到的光",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror1"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "name": "回廊里的折线",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "interact",
+        "id": "mirror3"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror2"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "name": "挪开阴影",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror1"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "name": "彼此照亮",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror1"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror2"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "name": "闸门背后的星光",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror1"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 11,
+    "name": "庭院的两次日出",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror1"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror2"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 12,
+    "name": "重新认识方向",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "gravity",
+        "id": "gravity1",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 13,
+    "name": "拐角的落点",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "gravity",
+        "id": "gravity1",
+        "dir": "right"
+      },
+      {
+        "type": "gravity",
+        "id": "gravity1",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 14,
+    "name": "恰好的阻挡",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "left"
+      },
+      {
+        "type": "move",
+        "dir": "left"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "left"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 15,
+    "name": "被星光托起的水",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "interact",
+        "id": "valve1"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "gravity",
+        "id": "gravity1",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 16,
+    "name": "星轨与光轨",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "gravity",
+        "id": "gravity1",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror1"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  },
+  {
+    "level": 17,
+    "name": "让城市重新呼吸",
+    "actions": [
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "interact",
+        "id": "valve1"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "gravity",
+        "id": "gravity1",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "up"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "move",
+        "dir": "right"
+      },
+      {
+        "type": "interact",
+        "id": "mirror1"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      },
+      {
+        "type": "move",
+        "dir": "down"
+      }
+    ]
+  }
+]

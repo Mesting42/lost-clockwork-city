@@ -1,0 +1,25 @@
+const shapes={
+  fullscreen:'<path fill="currentColor" d="M3 3h7v3H6v4H3zm11 0h7v7h-3V6h-4zM3 14h3v4h4v3H3zm15 0h3v7h-7v-3h4z"/>',
+  landscape:'<rect x="2" y="6" width="20" height="13" rx="3" fill="currentColor"/><rect x="5" y="8" width="14" height="9" rx="1" fill="#254746"/><circle cx="20.5" cy="12.5" r=".7" fill="#254746"/><path fill="#dfc18c" d="M6 4a8 8 0 0 1 12-1l2-1v5h-5l1-2A6 6 0 0 0 7 6z"/>',
+  cog:'<path fill="#cfa971" d="m14 2 1 3 3 1 3-1 2 3-2 3v3l2 3-2 3-3-1-3 1-1 3h-4l-1-3-3-1-3 1-2-3 2-3v-3l-2-3 2-3 3 1 3-1 1-3z"/><circle cx="12" cy="12" r="5" fill="#456260"/><circle cx="12" cy="12" r="2" fill="#ebd4ad"/>',
+  water:'<path fill="#81bbc0" d="M12 2c-3 5-8 9-8 13a8 8 0 0 0 16 0c0-4-5-8-8-13Z"/><path fill="#bddcda" d="M8 12c-3 4-1 7 2 7-2-2-2-4-2-7Z"/>',
+  light:'<path fill="#e5c789" d="m12 1 8 11-8 11-8-11z"/><path fill="#ffedba" d="m12 1 0 22-8-11z"/><path fill="#b69255" d="m12 12 8 0-8 11z"/>',
+  gravity:'<path fill="#baa9d7" d="m12 1 10 7v9l-10 6-10-6V8Z"/><path fill="#decaee" d="m12 1 0 11L2 8Z"/><path fill="#8e7fae" d="m12 12 10-4v9l-10 6Z"/>',
+  crate:'<rect x="3" y="4" width="18" height="17" rx="3" fill="#997852"/><path fill="#d5b779" d="M3 6h18v3H3zm0 11h18v3H3z"/><path stroke="#614f3e" stroke-width="2" d="M8 10v6m8-6v6"/><rect x="9" y="11" width="6" height="3" rx="1" fill="#d5b779"/>',
+  mirror:'<path fill="#cfb582" d="M4 3h16v14H4z"/><path fill="#b0d6d4" d="M6 5h12v10H6z"/><path fill="#e1efdf" d="m7 13 9-7h-4l-5 4Z"/><path fill="#baa072" d="M11 17h2v4h5v2H6v-2h5z"/>',
+  valve:'<circle cx="12" cy="9" r="8" fill="#c0a171"/><circle cx="12" cy="9" r="5" fill="#436764"/><path fill="#dac797" d="M11 2h2v14h-2zm-6 6h14v2H5z"/><path fill="#b17e51" d="M10 16h4v5h6v3H4v-3h6z"/>',
+  exit:'<path fill="#bca474" d="M3 23V10a9 9 0 0 1 18 0v13h-5V10a4 4 0 0 0-8 0v13z"/><path fill="#b9e2c5" d="m12 6 4 6-4 6-4-6z"/>',
+  pause:'<rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"/><rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"/>',
+  undo:'<path fill="currentColor" d="M9 3 1 10l8 7v-5h5a5 5 0 0 1 0 10h-2v-3h2a2 2 0 0 0 0-4H9v3L1 10l8-7zm0 6h5a8 8 0 0 1 0 16v-3a5 5 0 0 0 0-10H9Z" transform="translate(2 -2) scale(.88)"/>',
+  reset:'<path fill="currentColor" d="M20 4v7h-7l3-3a6 6 0 1 0 1 9l2 2a9 9 0 1 1-1-13z"/>',
+  hint:'<path fill="currentColor" d="M12 2a8 8 0 0 0-5 14v3h10v-3A8 8 0 0 0 12 2Zm-3 20h6v2H9Z"/><path fill="#284440" d="M11 7h2v6h-2zm0 7h2v2h-2z"/>',
+  sound:'<path fill="currentColor" d="M3 9h4l6-5v16l-6-5H3zm13-3a8 8 0 0 1 0 12v-3a5 5 0 0 0 0-6zm3-3a12 12 0 0 1 0 18v-3a9 9 0 0 0 0-12Z"/>',
+  mute:'<path fill="currentColor" d="M3 9h4l6-5v16l-6-5H3zm13-1 2 2 2-2 2 2-2 2 2 2-2 2-2-2-2 2-2-2 2-2-2-2z"/>',
+  camera:'<path fill="currentColor" d="M3 7h4l2-3h6l2 3h4v14H3Zm9 3a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z"/>',
+  arrow:'<path fill="currentColor" d="m13 5 7 7-7 7-2-2 4-4H3v-2h12l-4-4z"/>',
+  close:'<path fill="currentColor" d="m6 4 6 6 6-6 2 2-6 6 6 6-2 2-6-6-6 6-2-2 6-6-6-6z"/>',
+  save:'<path fill="currentColor" d="M3 3h15l3 3v15H3Zm4 0v7h10V3Zm0 12v6h10v-6Z"/>',
+  check:'<path fill="currentColor" d="m3 12 6 6L22 5l-3-2L9 13l-3-4z"/>',
+  star:'<path fill="currentColor" d="m12 1 3.3 7 7.7 1-5.6 5.4 1.4 7.6L12 18l-6.8 4 1.4-7.6L1 9l7.7-1z"/>'
+};
+export const icon=(name,cls='')=>`<svg class="icon ${cls}" viewBox="0 0 24 24" aria-hidden="true">${shapes[name]||shapes.cog}</svg>`;
