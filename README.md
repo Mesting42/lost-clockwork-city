@@ -120,4 +120,13 @@ node tools/export-models.mjs      # 导出并重新解析本地模型
 
 测试报告和截图保存于 `artifacts/`。详细验证范围和未验证项见 `docs/测试报告.md`。回归仅只读查看游戏状态，通关通过真实键盘、鼠标和界面按钮完成；不修改关卡编号、箱体位置、解锁进度或胜利标记。存档恢复专项测试会故意损坏存档外层，以验证恢复页面，不借此跳关。
 
+<!-- pixel-pier-game-listing:start -->
+## Game listing / 游戏展示
 
+- **Game developer / 游戏开发者:** Mest ([@Mesting42](https://github.com/Mesting42))
+- **Pixel Pier listing / 游戏展示页面:** [Lost Clockwork City](https://riverglint.link/games/lost-clockwork-city/)
+
+This game is listed on Pixel Pier with a play entry and game guide. This link identifies a game-development and listing relationship; it does not identify the developer as the website operator or operating entity.
+
+本游戏在 Pixel Pier 展示，并提供游玩入口与游戏指南。此链接仅表示游戏开发与展示关联，不代表开发者是该网站的运营者或运营主体。
+<!-- pixel-pier-game-listing:end -->
